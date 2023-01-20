@@ -34,9 +34,3 @@ For late night binging of course.
 
 #### 🎞️ PiP (Picture-in-Picture) View
 For when you clearly have other, slightly more important things to do, but you just *have* to watch something right now.
-
-#### 💩 No bullshit
-We don't use ads or try to scam you. However, due to the legality of movie torrents, please use Flixerr at your own discretion.
-
-### Contributing
- If you want to contribute to making Flixerr better/faster, please don't hesitate! If you have any questions please email support@flixerrtv.com, issues are only for bugs/feature requests. 
